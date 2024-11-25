@@ -1,4 +1,4 @@
-# Top-Indian-movies-IMDB
+# Top-Indian-movies-IMDBs Rating
 
 ●	Importing Data: Collected the dataset from Kaggle and imported movie data into Excel for analysis.
 ●	Cleaning of Data: Ensured data accuracy by cleaning and organizing the dataset, removing duplicates, removing blank spaces and correcting errors.
